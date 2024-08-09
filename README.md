@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions ![download](https://github.com/user-attachments/assets/c20f62cc-d624-4a72-b3e3-9537e88932ee)
+# Hello GitHub Actions
 
 
 _Create and run a GitHub Actions workflow._
